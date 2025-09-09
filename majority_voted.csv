@@ -1,0 +1,205 @@
+Unnamed: 0,StudyInstanceUID,answer
+0,1.2.826.0.1.3680043.10.474.514382.1001626,['airspace opacity']
+1,1.2.826.0.1.3680043.10.474.514382.1005996,"['airspace opacity', 'pleural effusion']"
+2,1.2.826.0.1.3680043.10.474.514382.100626,"['airspace opacity', 'interstitial opacity']"
+3,1.2.826.0.1.3680043.10.474.514382.1008721,"['copd', 'airspace opacity']"
+4,1.2.826.0.1.3680043.10.474.514382.1011591,['airspace opacity']
+5,1.2.826.0.1.3680043.10.474.514382.1016797,"['cardiomegaly', 'lung mass', 'interstitial opacity', 'lung nodule']"
+6,1.2.826.0.1.3680043.10.474.514382.102859,"['cardiomegaly', 'pleural effusion', 'airspace opacity', 'interstitial opacity']"
+7,1.2.826.0.1.3680043.10.474.514382.1032769,"['airspace opacity', 'cardiomegaly']"
+8,1.2.826.0.1.3680043.10.474.514382.1046361,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+9,1.2.826.0.1.3680043.10.474.514382.1049193,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+10,1.2.826.0.1.3680043.10.474.514382.1054585,"['airspace opacity', 'cardiomegaly']"
+11,1.2.826.0.1.3680043.10.474.514382.1054674,"['airspace opacity', 'interstitial opacity']"
+12,1.2.826.0.1.3680043.10.474.514382.1061270,['interstitial opacity']
+13,1.2.826.0.1.3680043.10.474.514382.106242,"['airspace opacity', 'cardiomegaly']"
+14,1.2.826.0.1.3680043.10.474.514382.1066127,['airspace opacity']
+15,1.2.826.0.1.3680043.10.474.514382.1074190,"['aneurysm', 'airspace opacity', 'cardiomegaly', 'interstitial opacity']"
+16,1.2.826.0.1.3680043.10.474.514382.1075263,['airspace opacity']
+17,1.2.826.0.1.3680043.10.474.514382.1083226,['airspace opacity']
+18,1.2.826.0.1.3680043.10.474.514382.1086702,"['cardiomegaly', 'interstitial opacity', 'airspace opacity']"
+19,1.2.826.0.1.3680043.10.474.514382.1087955,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+20,1.2.826.0.1.3680043.10.474.514382.1089667,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+21,1.2.826.0.1.3680043.10.474.514382.1090780,"['airspace opacity', 'cardiomegaly', 'pleural effusion']"
+22,1.2.826.0.1.3680043.10.474.514382.1090887,['airspace opacity']
+23,1.2.826.0.1.3680043.10.474.514382.1101222,"['interstitial opacity', 'airspace opacity']"
+24,1.2.826.0.1.3680043.10.474.514382.1103624,"['pleural effusion', 'pleural thickening', 'interstitial opacity']"
+25,1.2.826.0.1.3680043.10.474.514382.111482,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+26,1.2.826.0.1.3680043.10.474.514382.111665,"['airspace opacity', 'cardiomegaly']"
+27,1.2.826.0.1.3680043.10.474.514382.11650,"['airspace opacity', 'aneurysm']"
+28,1.2.826.0.1.3680043.10.474.514382.11965,"['airspace opacity', 'cardiomegaly']"
+29,1.2.826.0.1.3680043.10.474.514382.121118,"['cardiomegaly', 'interstitial opacity']"
+30,1.2.826.0.1.3680043.10.474.514382.12203,"['cardiomegaly', 'pleural effusion', 'pleural thickening']"
+31,1.2.826.0.1.3680043.10.474.514382.12209,"['pleural effusion', 'interstitial opacity']"
+32,1.2.826.0.1.3680043.10.474.514382.12230,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+33,1.2.826.0.1.3680043.10.474.514382.1231179,"['pleural effusion', 'interstitial opacity']"
+34,1.2.826.0.1.3680043.10.474.514382.123215,['airspace opacity']
+35,1.2.826.0.1.3680043.10.474.514382.123260,"['interstitial opacity', 'aneurysm', 'airspace opacity', 'cardiomegaly']"
+36,1.2.826.0.1.3680043.10.474.514382.123266,"['airspace opacity', 'copd']"
+37,1.2.826.0.1.3680043.10.474.514382.12332,['airspace opacity']
+38,1.2.826.0.1.3680043.10.474.514382.1236859,['pleural effusion']
+39,1.2.826.0.1.3680043.10.474.514382.12378,['airspace opacity']
+40,1.2.826.0.1.3680043.10.474.514382.125813,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+41,1.2.826.0.1.3680043.10.474.514382.128092,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+42,1.2.826.0.1.3680043.10.474.514382.1299333,['airspace opacity']
+43,1.2.826.0.1.3680043.10.474.514382.131789,"['airspace opacity', 'cardiomegaly', 'pleural effusion']"
+44,1.2.826.0.1.3680043.10.474.514382.131807,"['airspace opacity', 'lung nodule']"
+45,1.2.826.0.1.3680043.10.474.514382.131896,"['airspace opacity', 'pleural effusion', 'interstitial opacity']"
+46,1.2.826.0.1.3680043.10.474.514382.1319596,"['airspace opacity', 'cardiomegaly']"
+47,1.2.826.0.1.3680043.10.474.514382.1329248,"['pleural effusion', 'interstitial opacity', 'airspace opacity']"
+48,1.2.826.0.1.3680043.10.474.514382.1333194,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+49,1.2.826.0.1.3680043.10.474.514382.13410,['airspace opacity']
+50,1.2.826.0.1.3680043.10.474.514382.135157,"['airspace opacity', 'pleural effusion', 'copd']"
+51,1.2.826.0.1.3680043.10.474.514382.135224,['airspace opacity']
+52,1.2.826.0.1.3680043.10.474.514382.1353231,['cardiomegaly']
+53,1.2.826.0.1.3680043.10.474.514382.1363903,"['airspace opacity', 'cardiomegaly', 'interstitial opacity', 'pleural effusion']"
+54,1.2.826.0.1.3680043.10.474.514382.1374678,"['cardiomegaly', 'pleural effusion', 'airspace opacity']"
+55,1.2.826.0.1.3680043.10.474.514382.1428240,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+56,1.2.826.0.1.3680043.10.474.514382.144133,"['airspace opacity', 'pleural effusion', 'lung nodule']"
+57,1.2.826.0.1.3680043.10.474.514382.1482521,"['cardiomegaly', 'airspace opacity', 'pleural effusion']"
+58,1.2.826.0.1.3680043.10.474.514382.1483251,"['airspace opacity', 'cardiomegaly']"
+59,1.2.826.0.1.3680043.10.474.514382.1489887,['airspace opacity']
+60,1.2.826.0.1.3680043.10.474.514382.1501265,"['cardiomegaly', 'pleural effusion', 'interstitial opacity', 'airspace opacity']"
+61,1.2.826.0.1.3680043.10.474.514382.150739,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+62,1.2.826.0.1.3680043.10.474.514382.1512590,"['airspace opacity', 'pleural effusion', 'cardiomegaly', 'interstitial opacity']"
+63,1.2.826.0.1.3680043.10.474.514382.1527447,"['airspace opacity', 'cardiomegaly', 'interstitial opacity']"
+64,1.2.826.0.1.3680043.10.474.514382.1561373,"['lung mass', 'lung nodule', 'pleural effusion', 'aneurysm', 'airspace opacity']"
+65,1.2.826.0.1.3680043.10.474.514382.1567293,"['pleural effusion', 'lung mass']"
+66,1.2.826.0.1.3680043.10.474.514382.1577682,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+67,1.2.826.0.1.3680043.10.474.514382.157888,"['airspace opacity', 'pleural effusion', 'hiatal hernia']"
+68,1.2.826.0.1.3680043.10.474.514382.157891,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+69,1.2.826.0.1.3680043.10.474.514382.1595727,"['pleural effusion', 'airspace opacity', 'cardiomegaly']"
+70,1.2.826.0.1.3680043.10.474.514382.1669949,['cardiomegaly']
+71,1.2.826.0.1.3680043.10.474.514382.1670653,['interstitial opacity']
+72,1.2.826.0.1.3680043.10.474.514382.16707,['airspace opacity']
+73,1.2.826.0.1.3680043.10.474.514382.1672874,"['cardiomegaly', 'pleural effusion', 'interstitial opacity', 'airspace opacity']"
+74,1.2.826.0.1.3680043.10.474.514382.1676689,"['airspace opacity', 'interstitial opacity']"
+75,1.2.826.0.1.3680043.10.474.514382.168341,"['airspace opacity', 'pleural effusion']"
+76,1.2.826.0.1.3680043.10.474.514382.168416,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+77,1.2.826.0.1.3680043.10.474.514382.168602,"['cardiomegaly', 'airspace opacity', 'pleural effusion']"
+78,1.2.826.0.1.3680043.10.474.514382.173500,"['airspace opacity', 'pleural effusion']"
+79,1.2.826.0.1.3680043.10.474.514382.178447,"['airspace opacity', 'cardiomegaly']"
+80,1.2.826.0.1.3680043.10.474.514382.178500,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+81,1.2.826.0.1.3680043.10.474.514382.178784,"['airspace opacity', 'pleural effusion', 'pleural thickening']"
+82,1.2.826.0.1.3680043.10.474.514382.18160,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+83,1.2.826.0.1.3680043.10.474.514382.18343,"['airspace opacity', 'pleural effusion']"
+84,1.2.826.0.1.3680043.10.474.514382.185150,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+85,1.2.826.0.1.3680043.10.474.514382.186123,['airspace opacity']
+86,1.2.826.0.1.3680043.10.474.514382.192788,['airspace opacity']
+87,1.2.826.0.1.3680043.10.474.514382.19342,"['airspace opacity', 'pleural effusion', 'aneurysm']"
+88,1.2.826.0.1.3680043.10.474.514382.19366,"['airspace opacity', 'pleural effusion', 'copd']"
+89,1.2.826.0.1.3680043.10.474.514382.19393,"['aneurysm', 'interstitial opacity']"
+90,1.2.826.0.1.3680043.10.474.514382.201193,"['pleural effusion', 'cardiomegaly', 'airspace opacity']"
+91,1.2.826.0.1.3680043.10.474.514382.20445,['airspace opacity']
+92,1.2.826.0.1.3680043.10.474.514382.206556,"['airspace opacity', 'pleural effusion']"
+93,1.2.826.0.1.3680043.10.474.514382.212319,['airspace opacity']
+94,1.2.826.0.1.3680043.10.474.514382.213398,"['interstitial opacity', 'airspace opacity', 'pleural effusion', 'cardiomegaly']"
+95,1.2.826.0.1.3680043.10.474.514382.224007,"['airspace opacity', 'cardiomegaly']"
+96,1.2.826.0.1.3680043.10.474.514382.228502,"['airspace opacity', 'cardiomegaly', 'pleural effusion']"
+97,1.2.826.0.1.3680043.10.474.514382.230121,"['airspace opacity', 'pleural effusion']"
+98,1.2.826.0.1.3680043.10.474.514382.23557,['airspace opacity']
+99,1.2.826.0.1.3680043.10.474.514382.236254,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+100,1.2.826.0.1.3680043.10.474.514382.24452,"['cardiomegaly', 'pleural effusion', 'airspace opacity', 'pleural thickening']"
+101,1.2.826.0.1.3680043.10.474.514382.244812,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+102,1.2.826.0.1.3680043.10.474.514382.246546,"['pleural effusion', 'airspace opacity']"
+103,1.2.826.0.1.3680043.10.474.514382.253080,"['airspace opacity', 'pleural effusion']"
+104,1.2.826.0.1.3680043.10.474.514382.263964,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+105,1.2.826.0.1.3680043.10.474.514382.264526,"['airspace opacity', 'interstitial opacity']"
+106,1.2.826.0.1.3680043.10.474.514382.26879,"['interstitial opacity', 'pleural thickening', 'cardiomegaly']"
+107,1.2.826.0.1.3680043.10.474.514382.26958,"['cardiomegaly', 'pleural effusion', 'airspace opacity']"
+108,1.2.826.0.1.3680043.10.474.514382.27389,"['airspace opacity', 'cardiomegaly']"
+109,1.2.826.0.1.3680043.10.474.514382.274205,"['cardiomegaly', 'pleural effusion', 'airspace opacity', 'interstitial opacity']"
+110,1.2.826.0.1.3680043.10.474.514382.287256,['airspace opacity']
+111,1.2.826.0.1.3680043.10.474.514382.287433,['airspace opacity']
+112,1.2.826.0.1.3680043.10.474.514382.287519,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+113,1.2.826.0.1.3680043.10.474.514382.287536,"['airspace opacity', 'pleural effusion']"
+114,1.2.826.0.1.3680043.10.474.514382.287555,"['airspace opacity', 'pleural effusion', 'copd']"
+115,1.2.826.0.1.3680043.10.474.514382.287593,"['airspace opacity', 'cardiomegaly']"
+116,1.2.826.0.1.3680043.10.474.514382.291938,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+117,1.2.826.0.1.3680043.10.474.514382.295284,['airspace opacity']
+118,1.2.826.0.1.3680043.10.474.514382.295529,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+119,1.2.826.0.1.3680043.10.474.514382.300143,"['airspace opacity', 'pleural thickening']"
+120,1.2.826.0.1.3680043.10.474.514382.31091,"['airspace opacity', 'cardiomegaly']"
+121,1.2.826.0.1.3680043.10.474.514382.31574,['airspace opacity']
+122,1.2.826.0.1.3680043.10.474.514382.31696,"['airspace opacity', 'cardiomegaly']"
+123,1.2.826.0.1.3680043.10.474.514382.324014,"['airspace opacity', 'cardiomegaly']"
+124,1.2.826.0.1.3680043.10.474.514382.338691,"['cardiomegaly', 'pleural effusion']"
+125,1.2.826.0.1.3680043.10.474.514382.342483,['airspace opacity']
+126,1.2.826.0.1.3680043.10.474.514382.342595,"['airspace opacity', 'interstitial opacity']"
+127,1.2.826.0.1.3680043.10.474.514382.34484,"['airspace opacity', 'pleural effusion']"
+128,1.2.826.0.1.3680043.10.474.514382.347200,"['airspace opacity', 'pleural effusion', 'cardiomegaly', 'interstitial opacity']"
+129,1.2.826.0.1.3680043.10.474.514382.35038,"['airspace opacity', 'interstitial opacity', 'aneurysm']"
+130,1.2.826.0.1.3680043.10.474.514382.355464,"['airspace opacity', 'interstitial opacity']"
+131,1.2.826.0.1.3680043.10.474.514382.355494,"['airspace opacity', 'interstitial opacity']"
+132,1.2.826.0.1.3680043.10.474.514382.355754,"['cardiomegaly', 'airspace opacity']"
+133,1.2.826.0.1.3680043.10.474.514382.35917,['airspace opacity']
+134,1.2.826.0.1.3680043.10.474.514382.367237,"['cardiomegaly', 'pleural effusion', 'interstitial opacity', 'airspace opacity']"
+135,1.2.826.0.1.3680043.10.474.514382.368049,"['pleural effusion', 'airspace opacity', 'cardiomegaly', 'lymphadenopathy']"
+136,1.2.826.0.1.3680043.10.474.514382.368464,"['airspace opacity', 'pleural effusion']"
+137,1.2.826.0.1.3680043.10.474.514382.371235,"['airspace opacity', 'pleural effusion']"
+138,1.2.826.0.1.3680043.10.474.514382.37533,"['airspace opacity', 'interstitial opacity', 'cardiomegaly']"
+139,1.2.826.0.1.3680043.10.474.514382.383195,"['airspace opacity', 'interstitial opacity']"
+140,1.2.826.0.1.3680043.10.474.514382.383585,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+141,1.2.826.0.1.3680043.10.474.514382.384714,"['airspace opacity', 'pleural effusion', 'pleural thickening']"
+142,1.2.826.0.1.3680043.10.474.514382.392482,['airspace opacity']
+143,1.2.826.0.1.3680043.10.474.514382.396077,"['airspace opacity', 'interstitial opacity']"
+144,1.2.826.0.1.3680043.10.474.514382.397597,"['airspace opacity', 'pleural effusion', 'lung mass']"
+145,1.2.826.0.1.3680043.10.474.514382.406249,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+146,1.2.826.0.1.3680043.10.474.514382.407174,"['airspace opacity', 'interstitial opacity']"
+147,1.2.826.0.1.3680043.10.474.514382.410841,['airspace opacity']
+148,1.2.826.0.1.3680043.10.474.514382.41667,"['airspace opacity', 'pleural effusion', 'aneurysm']"
+149,1.2.826.0.1.3680043.10.474.514382.418893,"['hiatal hernia', 'interstitial opacity']"
+150,1.2.826.0.1.3680043.10.474.514382.423748,['airspace opacity']
+151,1.2.826.0.1.3680043.10.474.514382.423792,['airspace opacity']
+152,1.2.826.0.1.3680043.10.474.514382.435719,"['airspace opacity', 'copd', 'cardiomegaly']"
+153,1.2.826.0.1.3680043.10.474.514382.435780,"['cardiomegaly', 'interstitial opacity', 'aneurysm', 'pleural effusion']"
+154,1.2.826.0.1.3680043.10.474.514382.435847,"['airspace opacity', 'cardiomegaly']"
+155,1.2.826.0.1.3680043.10.474.514382.436300,"['airspace opacity', 'copd']"
+156,1.2.826.0.1.3680043.10.474.514382.436599,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+157,1.2.826.0.1.3680043.10.474.514382.439679,['lung nodule']
+158,1.2.826.0.1.3680043.10.474.514382.440797,['airspace opacity']
+159,1.2.826.0.1.3680043.10.474.514382.445172,"['airspace opacity', 'hiatal hernia']"
+160,1.2.826.0.1.3680043.10.474.514382.456983,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+161,1.2.826.0.1.3680043.10.474.514382.457827,['airspace opacity']
+162,1.2.826.0.1.3680043.10.474.514382.461407,"['cardiomegaly', 'airspace opacity']"
+163,1.2.826.0.1.3680043.10.474.514382.463962,"['airspace opacity', 'interstitial opacity', 'cardiomegaly']"
+164,1.2.826.0.1.3680043.10.474.514382.468709,['airspace opacity']
+165,1.2.826.0.1.3680043.10.474.514382.468768,['airspace opacity']
+166,1.2.826.0.1.3680043.10.474.514382.468844,['airspace opacity']
+167,1.2.826.0.1.3680043.10.474.514382.468883,"['lung mass', 'interstitial opacity']"
+168,1.2.826.0.1.3680043.10.474.514382.473228,['airspace opacity']
+169,1.2.826.0.1.3680043.10.474.514382.476398,['airspace opacity']
+170,1.2.826.0.1.3680043.10.474.514382.477202,"['airspace opacity', 'cardiomegaly', 'interstitial opacity']"
+171,1.2.826.0.1.3680043.10.474.514382.47762,"['airspace opacity', 'cardiomegaly', 'interstitial opacity']"
+172,1.2.826.0.1.3680043.10.474.514382.47856,"['airspace opacity', 'interstitial opacity', 'copd']"
+173,1.2.826.0.1.3680043.10.474.514382.479151,"['airspace opacity', 'interstitial opacity']"
+174,1.2.826.0.1.3680043.10.474.514382.479166,"['pleural effusion', 'pleural thickening', 'airspace opacity', 'interstitial opacity']"
+175,1.2.826.0.1.3680043.10.474.514382.484240,"['airspace opacity', 'interstitial opacity']"
+176,1.2.826.0.1.3680043.10.474.514382.484411,['airspace opacity']
+177,1.2.826.0.1.3680043.10.474.514382.492885,"['airspace opacity', 'cardiomegaly']"
+178,1.2.826.0.1.3680043.10.474.514382.495360,"['airspace opacity', 'cardiomegaly']"
+179,1.2.826.0.1.3680043.10.474.514382.4960549,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+180,1.2.826.0.1.3680043.10.474.514382.4967644,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+181,1.2.826.0.1.3680043.10.474.514382.4986583,"['airspace opacity', 'pleural effusion', 'cardiomegaly', 'interstitial opacity']"
+182,1.2.826.0.1.3680043.10.474.514382.498790,"['hiatal hernia', 'pleural effusion', 'airspace opacity', 'cardiomegaly']"
+183,1.2.826.0.1.3680043.10.474.514382.5005982,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+184,1.2.826.0.1.3680043.10.474.514382.501478,"['pleural effusion', 'lung mass', 'airspace opacity']"
+185,1.2.826.0.1.3680043.10.474.514382.5025193,['airspace opacity']
+186,1.2.826.0.1.3680043.10.474.514382.5063182,"['cardiomegaly', 'interstitial opacity', 'pleural effusion']"
+187,1.2.826.0.1.3680043.10.474.514382.50699,"['lung mass', 'lung nodule', 'copd']"
+188,1.2.826.0.1.3680043.10.474.514382.50712,"['airspace opacity', 'cardiomegaly', 'pleural effusion']"
+189,1.2.826.0.1.3680043.10.474.514382.509364,['airspace opacity']
+190,1.2.826.0.1.3680043.10.474.514382.5147472,"['airspace opacity', 'pleural effusion']"
+191,1.2.826.0.1.3680043.10.474.514382.5155279,"['airspace opacity', 'pleural effusion']"
+192,1.2.826.0.1.3680043.10.474.514382.51563,"['airspace opacity', 'pleural effusion']"
+193,1.2.826.0.1.3680043.10.474.514382.5161131,"['airspace opacity', 'interstitial opacity']"
+194,1.2.826.0.1.3680043.10.474.514382.51627,['airspace opacity']
+195,1.2.826.0.1.3680043.10.474.514382.5169834,"['interstitial opacity', 'airspace opacity', 'cardiomegaly']"
+196,1.2.826.0.1.3680043.10.474.514382.5182895,"['airspace opacity', 'pleural effusion', 'cardiomegaly']"
+197,1.2.826.0.1.3680043.10.474.514382.5190735,"['airspace opacity', 'pleural effusion']"
+198,1.2.826.0.1.3680043.10.474.514382.5197583,"['cardiomegaly', 'pleural thickening', 'interstitial opacity', 'pleural effusion']"
+199,1.2.826.0.1.3680043.10.474.514382.5213427,['cardiomegaly']
+1.2.826.0.1.3680043.10.474.514382.5577321,"['lymphadenopathy', 'lung mass']"
+1.2.826.0.1.3680043.10.474.514382.5631805,"['pneumothorax', 'airspace opacity', 'copd', 'lung nodule']"
+1.2.826.0.1.3680043.10.474.514382.5766807,"['airspace opacity', 'copd', 'lymphadenopathy']"
+1.2.826.0.1.3680043.10.474.514382.5875483,"['airspace opacity', 'pneumothorax']"

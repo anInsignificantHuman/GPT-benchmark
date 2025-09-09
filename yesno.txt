@@ -1,0 +1,5 @@
+Please answer the following Yes-or-No Question based on the image above. 
+
+You are only permitted to respond with a 1 (representing a "yes" answer) or a 0 (representing a "no" answer)
+
+Is the following disease shown in the image? 
